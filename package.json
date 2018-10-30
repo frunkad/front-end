@@ -107,7 +107,7 @@
     "prettier": "^1.14.3",
     "react-addons-test-utils": "^15.6.2",
     "react-test-renderer": "^16.6.0",
-    "stylelint": "^9.6.0",
+    "stylelint": "^9.7.1",
     "stylelint-config-standard": "^18.2.0"
   },
   "greenkeeper": {
